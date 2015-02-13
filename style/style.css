@@ -1,3 +1,46 @@
 * {
-    background: #d7d7d7;
+  background: #ffffff;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, footer {
+  font-family: Helvetica;
+}
+.puppy {
+  font-family: Georgia;
+}
+header {
+  color: #ff7f50;
+  border: 1px solid #000000;
+  text-align: left;
+  background-color: #b5ab9e;
+}
+h1 {
+  font-size: 4em;
+}
+h6 {
+  color: 559360;
+}
+section {
+  padding: 10px;
+}
+footer {
+  background-color: #b5ab9e;
+}
+p {
+  text-align: left;
+  color: #ccbcaf;
+}
+.paragraph {
+  width: 45ex;
+  display: inline-block;
+}
+.kitten {
+  text-align: left;
+  line-height: 1.3em;
+}
+img {
+  background-color: #ffffff;
 }
